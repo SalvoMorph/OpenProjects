@@ -1,0 +1,6 @@
+c:\users\cattanos\documents\visual studio 2015\Projects\ConvertImage\ConvertImage\bin\Debug\ConvertImage.exe.config
+c:\users\cattanos\documents\visual studio 2015\Projects\ConvertImage\ConvertImage\obj\Debug\ConvertImage.csprojResolveAssemblyReference.cache
+c:\users\cattanos\documents\visual studio 2015\Projects\ConvertImage\ConvertImage\bin\Debug\ConvertImage.exe
+c:\users\cattanos\documents\visual studio 2015\Projects\ConvertImage\ConvertImage\bin\Debug\ConvertImage.pdb
+c:\users\cattanos\documents\visual studio 2015\Projects\ConvertImage\ConvertImage\obj\Debug\ConvertImage.exe
+c:\users\cattanos\documents\visual studio 2015\Projects\ConvertImage\ConvertImage\obj\Debug\ConvertImage.pdb
